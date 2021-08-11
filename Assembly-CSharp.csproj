@@ -43,6 +43,8 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Generation\GenerateObjects.cs" />
      <Compile Include="Assets\Scripts\Interactable\Experience.cs" />
+     <Compile Include="Assets\Scripts\Generation\AnotherGenerate.cs" />
+     <Compile Include="Assets\Scripts\Player\GeneratePlayer.cs" />
      <Compile Include="Assets\Scripts\Interactable\ObjectKiller.cs" />
      <Compile Include="Assets\Scripts\Generation\SpawnData.cs" />
      <Compile Include="Assets\Scripts\Interactable\InteractableZone.cs" />
@@ -56,8 +58,6 @@
      <Compile Include="Assets\Scripts\Interactable\ObjectDestroy.cs" />
      <Compile Include="Assets\Scripts\Generation\SpawnScriptableObjects.cs" />
      <Compile Include="Assets\Scripts\Interactable\InteractableEvent.cs" />
-     <Compile Include="Assets\Scripts\Player\GeneratePlayer.cs" />
-     <Compile Include="Assets\Scripts\Generation\AnotherGenerate.cs" />
      <Reference Include="UnityEngine">
      <HintPath>C:/Program Files/Unity/Hub/Editor/2021.1.16f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
      </Reference>
