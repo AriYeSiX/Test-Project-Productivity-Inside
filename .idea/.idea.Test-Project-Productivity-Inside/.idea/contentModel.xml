@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Ari\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Ari\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_Test-Project-Productivity-Inside.-1569764925.00" t="ExcludeRecursive" />
+    <e p="D:\UnityProjects\Test-Project-Productivity-Inside" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="NavMeshComponents" t="Include">
+          <e p="Editor" t="Include">
+            <e p="NavMeshAssetManager.cs" t="Include" />
+            <e p="NavMeshComponentsEditor.asmdef" t="Include" />
+            <e p="NavMeshComponentsGUIUtility.cs" t="Include" />
+            <e p="NavMeshLinkEditor.cs" t="Include" />
+            <e p="NavMeshModifierEditor.cs" t="Include" />
+            <e p="NavMeshModifierVolumeEditor.cs" t="Include" />
+            <e p="NavMeshSurfaceEditor.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="NavMeshComponents.asmdef" t="Include" />
+            <e p="NavMeshLink.cs" t="Include" />
+            <e p="NavMeshModifier.cs" t="Include" />
+            <e p="NavMeshModifierVolume.cs" t="Include" />
+            <e p="NavMeshSurface.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Generation" t="Include">
+            <e p="AnotherGenerate.cs" t="Include" />
+            <e p="GenerateObjects.cs" t="Include" />
+            <e p="SpawnData.cs" t="Include" />
+            <e p="SpawnScriptableObjects.cs" t="Include" />
+          </e>
+          <e p="Interactable" t="Include">
+            <e p="Door.cs" t="Include" />
+            <e p="Experience.cs" t="Include" />
+            <e p="Interactable.cs" t="Include" />
+            <e p="InteractableEvent.cs" t="Include" />
+            <e p="InteractableZone.cs" t="Include" />
+            <e p="ObjectDestroy.cs" t="Include" />
+            <e p="ObjectKiller.cs" t="Include" />
+            <e p="ObjectView.cs" t="Include" />
+            <e p="RestartButton.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="GeneratePlayer.cs" t="Include" />
+            <e p="Player.cs" t="Include" />
+            <e p="PlayerData.cs" t="Include" />
+            <e p="PlayerScriptableObject.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="NavMeshComponents.csproj" t="IncludeRecursive" />
+      <e p="NavMeshComponentsEditor.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Test-Project-Productivity-Inside.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
