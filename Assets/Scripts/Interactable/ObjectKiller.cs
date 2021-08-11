@@ -26,7 +26,6 @@ public class ObjectKiller : Interactable
 
         if (_player.playerData.playerData[0].health <= 0)
         {
-            // _player.transform.DetachChildren();
             _player.playerData.playerData[0].experience = 0;
             _player.playerData.playerData[0].playerPosition = Vector3.zero;
             _gameOverWindow.SetActive(true);
